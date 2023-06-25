@@ -1,0 +1,111 @@
+.logo {
+    width: 70px;
+    height: 50px;
+    }
+    .logo2{
+    margin-left: 50px;
+    }
+    .navegacion {
+        position: absolute;
+        top: 10px; 
+        right: 20px; 
+    
+    }
+    .ff{
+        color: black;
+    }
+    .navegacion ul {
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+    }
+    .navegacion ul li {
+        text-decoration: none;
+        margin-right: 40px; 
+    }
+    nav ul li:last-child {
+        margin-right: 0; 
+    }
+    a{
+        text-decoration: none;
+    }
+    .conteiner3 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color:rgba(46, 197, 206, 1) ;
+        border-radius: 20px;
+        width: 700px;
+        height: 100px;
+        text-align: center;
+        margin-left: 300px;
+
+    }
+    /*  1 */
+    .imgvision{
+        margin-top: 100px;
+        margin-left: 200px;
+        height: 300px;
+        width: 300px;
+    }
+
+    .section1{
+        margin-left: 800px;
+        position: absolute;
+        bottom: 100px;
+    }
+    .titulo1{
+        margin-top: 100px;
+        margin-left: 200px;
+    }
+    /* 2 */
+    .imgmision{
+        margin-top: 100px;
+        margin-left: 800px;
+        height: 300px;
+        width: 300px;
+    }
+    .section2{
+    width: 700px;
+        margin-left: 100px;
+        position: absolute;
+    top: 700px;
+    }
+    .titulo2{
+        text-align: center;
+        
+    }
+    /* 3 */
+    .imgobjetivos{
+        margin-top: 100px;
+        margin-left: 200px;
+        height: 300px;
+        width: 300px;
+    }
+
+    .section3{
+    margin-left: 800px;
+    position: absolute;
+    top: 1050px;
+    }
+    .titulo3{
+        margin-top: 100px;
+        margin-left: 200px;
+    }
+    /* 4 */
+    .imgpublico-objetivo{
+        margin-left: 800px;
+        height: 300px;
+        width: 300px;
+    }
+
+    .section4{
+        width: 700px;
+        margin-left: 100px;
+        position: absolute;
+        top: 1400px;
+    }
+    .titulo4{
+        text-align: center;
+        
+    }

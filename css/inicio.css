@@ -1,0 +1,220 @@
+
+.logo {
+width: 70px;
+height: 50px;
+}
+.logo2{
+margin-left: 50px;
+}
+
+.part{
+    margin-left: 5000px;
+}
+/* para alineralos al lado opuesto de la pagina */
+.navegacion {
+    position: absolute;
+    top: 10px; 
+    right: 20px; 
+
+}
+.ff{
+    color: black;
+}
+.linkbut{
+    color: black;
+}
+.navegacion ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+.navegacion ul li {
+    margin-right: 40px; 
+}
+nav ul li:last-child {
+    margin-right: 0; 
+}
+.text{
+font-size: 80px;
+margin-top: 0;
+margin-bottom: 0;
+}
+.conteiner,.parrafo{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.parraf{
+    margin-top: 0;
+margin-bottom: 0;
+}
+.buttom{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 30px;
+}
+a{
+    text-decoration: none;
+}
+.imagen{
+position: absolute;
+right: 300px; 
+top: 200px;
+
+
+}
+.imgbien{
+    border-radius: 20px;
+    width: 300px;
+height: 250px;
+}
+/* seciones */
+.conteiner1{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(206, 142, 46, 1);
+    height: 400px;
+}
+.info{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 200px;
+}
+.info2{
+    margin-top: 2px;
+    margin-left: 200px;
+}
+.info{
+    margin-top: 200px;
+    margin-left: 200px;
+
+}
+
+.parraf2{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 200px;
+}
+.section1{
+    background-color: aliceblue;
+    position: absolute;
+right: 300px; 
+top: 750px;
+left: 700px;
+word-wrap: break-word;
+}
+.textvis{
+text-align: center;
+}
+.carruseldeimagenes{
+    display: flex; 
+justify-content: space-between; 
+}
+.carru{
+    margin-top: 300px;
+    height: 300px;
+    width: 300px;
+}
+.carruseldeimagenes img{
+    margin-right: 2px; 
+}
+.button {
+    position: relative; 
+    height: 100vh;
+}
+
+.izquierdo {
+    position: absolute;
+    top: 10px; 
+    left: 10px; 
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 30px;
+}
+
+.derecho {
+    position: absolute; 
+    top: 10px; 
+    right: 10px; 
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: greenyellow;
+    color: white;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-left: 30px;
+
+}
+.imagenfooter{
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+
+}
+.conteiner8{
+    background-color: aquamarine;
+    height: 300px;
+    margin-top: 100px;
+}
+footer{
+    background-color: rgba(71, 52, 109, 1);
+    width: 1350px;
+    height: 230px;
+}
+.conteiner10{
+    display: flex;
+        justify-content: flex-start;
+        justify-content: space-evenly;
+}
+.logo3{
+    margin-left: 530px;
+}
+.conteiner12 ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.link{
+    color: azure;
+}
+.parrafo1{
+    margin-left: 600px;
+    color: azure;
+}
+.lik{
+    list-style-type: none;
+    color: azure;
+}
+.conteiner15{
+    display: flex;
+    flex-direction: column;
+}
+.redes,.redes-sociales{
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+}
+.rede{
+    height: 50px;
+    width: 50px;
+}
+
+.fr{
+position: absolute;
+width: 460px;
+height: 540px;
+left: 878px;
+top: 50px;
+border-radius: 20px;
+background: #B6F530;
+opacity: 0.5;
+}
